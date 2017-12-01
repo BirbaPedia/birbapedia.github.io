@@ -1,2 +1,0 @@
-# birbapedia.github.io
-birbapedia
